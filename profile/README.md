@@ -38,3 +38,5 @@ We welcome enthusiasts and beginners alike. Here's how you can get involved:
 If you're looking to join a community of like-minded individuals who are passionate about robotics and want to make a difference in the world, then this is the place for you! Join us today and let's shape the future of robotics together.
 
 **Thank you for being a part of the Robotics Club at BMS College of Engineering! 🚀**
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Robotics-Club-BMSCE&label=Profile%20views&color=0e75b6&style=flat" alt="r0h1th-1dd4e2" /> </p>
