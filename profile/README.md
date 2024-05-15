@@ -1,7 +1,7 @@
 # Welcome to the Robotics Club at BMS College of Engineering 🤖
 
 <p align="center">
-  <img src="profile/logo.jpeg" alt="Robotics Club Image" width="360px">
+  <img src="profile/logo.webp" alt="Robotics Club Image" width="360px">
 </p>
 
 Welcome to the Robotics Club of BMS College of Engineering, where innovation and creativity collide to bring the future of robotics to life!
@@ -21,9 +21,12 @@ Our diverse community consists of students from various majors and backgrounds, 
 - **Educational Initiatives:** Host workshops, guest lectures, and networking events to connect members with industry leaders and potential employers.
 
 ## Connect with Us
+<div align="center">
 
-- LinkedIn: [Robotics Club BMSCE](https://www.linkedin.com/company/robotics-club-bmsce/)
-- Instagram: [Robotics_BMSCE](https://www.instagram.com/robotics_bmsce/?hl=en)
+[![Robotics Club BMSCE](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/company/robotics-club-bmsce/)
+[![Robotics_BMSCE!](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/robotics_bmsce/?hl=en)
+
+</div>
 
 ## Get Involved
 
