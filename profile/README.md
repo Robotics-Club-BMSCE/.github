@@ -1,7 +1,7 @@
 # Welcome to the Robotics Club at BMS College of Engineering 🤖
 
 <p align="center">
-  <img src="profile/logo.webp" alt="Robotics Club Image" width="360px">
+  <img src="logo.webp" alt="Robotics Club Image" width="360px">
 </p>
 
 Welcome to the Robotics Club of BMS College of Engineering, where innovation and creativity collide to bring the future of robotics to life!
